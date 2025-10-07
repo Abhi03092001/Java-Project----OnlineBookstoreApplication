@@ -1,0 +1,18 @@
+# Maven
+/target/
+
+# Receipts
+/receipts/*
+!/receipts/.gitkeep
+
+# IDEs
+/.idea/
+*.iml
+/.project
+/.classpath
+/.settings/
+/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

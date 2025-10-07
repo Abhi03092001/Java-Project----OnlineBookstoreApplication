@@ -1,0 +1,14 @@
+Project File Manifest - Online Bookstore (final)
+
+.gitignore
+pom.xml
+receipts/.gitkeep
+src/main/java/com/bookstore/Main.java
+src/main/java/com/bookstore/model/Book.java
+src/main/java/com/bookstore/model/Order.java
+src/main/java/com/bookstore/model/OrderItem.java
+src/main/java/com/bookstore/service/BrowsingHistoryService.java
+src/main/java/com/bookstore/service/CartService.java
+src/main/java/com/bookstore/service/RecommendationService.java
+src/main/java/com/bookstore/ui/BookstoreUI.java
+src/main/java/com/bookstore/util/ReceiptGenerator.java
